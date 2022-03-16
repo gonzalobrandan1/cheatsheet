@@ -1,0 +1,27 @@
+body {
+  background-color: #efefe6;
+}
+
+h1 {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+}
+
+table {
+  border: 1px solid red;
+  font-family: "Roboto Mono", monospace;
+  margin: 0 auto;
+}
+th,
+td {
+  border: 1px solid red;
+}
+
+.code {
+  background-color: antiquewhite;
+}
